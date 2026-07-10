@@ -73,6 +73,7 @@ A responsive portfolio built with Next.js, TypeScript, Tailwind CSS, and Framer 
 <!-- Requires your WakaTime username to match your GitHub username, and your WakaTime
      profile to be set to public in your WakaTime dashboard settings. -->
 <p align="center">
+  <img src="https://wakatime.com/share/@AemanNisar/b82a2693-2565-4700-897b-a475a59b968b.svg"/>
 <img src="https://wakatime.com/share/@AemanNisar/a85b7509-93d0-4feb-9a0b-f5c077e640d8.svg" alt="WakaTime Coding Activity" />
 </p>
 
