@@ -1,4 +1,4 @@
-<div align="center">
+  <div align="center">
 
 <a href="https://github.com/AemanNisar">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=6EE7B7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Aeman+Nisar+%F0%9F%91%8B;Full+Stack+Developer;MERN+Stack+%7C+Next.js+%7C+TypeScript;Building+things+that+live+on+the+web" alt="Typing SVG" />
@@ -54,7 +54,7 @@ A responsive portfolio built with Next.js, TypeScript, Tailwind CSS, and Framer 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="./profile/stats.svg" alt="Aeman's GitHub Stats" height="165" />
+  <img src="https://raw.githubusercontent.com/AemanNisar/AemanNisar/main/profile/stats.svg" alt="Aeman's GitHub Stats" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AemanNisar&theme=dark&hide_border=true" alt="Aeman's GitHub Streak" height="165" />
 </p>
 
@@ -73,7 +73,8 @@ A responsive portfolio built with Next.js, TypeScript, Tailwind CSS, and Framer 
 <!-- Requires your WakaTime username to match your GitHub username, and your WakaTime
      profile to be set to public in your WakaTime dashboard settings. -->
 <p align="center">
-<figure><embed src="https://wakatime.com/share/@AemanNisar/a85b7509-93d0-4feb-9a0b-f5c077e640d8.svg"></embed></figure></p>
+<img src="https://wakatime.com/share/@AemanNisar/a85b7509-93d0-4feb-9a0b-f5c077e640d8.svg" alt="WakaTime Coding Activity" />
+</p>
 
 ---
 
