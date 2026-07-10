@@ -54,21 +54,26 @@ A responsive portfolio built with Next.js, TypeScript, Tailwind CSS, and Framer 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AemanNisar&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Aeman's GitHub Stats" height="165" />
+  <img src="./profile/stats.svg" alt="Aeman's GitHub Stats" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AemanNisar&theme=dark&hide_border=true" alt="Aeman's GitHub Streak" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AemanNisar&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="165" />
+  <img src="./profile/top-langs.svg" alt="Top Languages" height="165" />
 </p>
+
+<!-- Stats and Top Languages above are generated nightly by .github/workflows/update-readme-stats.yml
+     and committed as static SVGs, so they don't depend on the public github-readme-stats.vercel.app
+     service (which has been unreliable / paused at times). -->
 
 ---
 
 ### ⏱️ Weekly Coding Activity (WakaTime)
 
-<!-- Replace 'AemanNisar' below with your exact WakaTime username if it differs from your GitHub handle -->
+<!-- Requires your WakaTime username to match your GitHub username, and your WakaTime
+     profile to be set to public in your WakaTime dashboard settings. -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AemanNisar&theme=dark&hide_border=true" alt="Aeman's WakaTime Stats" />
+  <img src="./profile/wakatime.svg" alt="Aeman's WakaTime Stats" />
 </p>
 
 ---
