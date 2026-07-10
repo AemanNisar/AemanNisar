@@ -1,57 +1,85 @@
-## Hi there, I am Aeman Nisar, Full stack developer 👋
+<div align="center">
+
+<a href="https://github.com/AemanNisar">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=6EE7B7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Aeman+Nisar+%F0%9F%91%8B;Full+Stack+Developer;MERN+Stack+%7C+Next.js+%7C+TypeScript;Building+things+that+live+on+the+web" alt="Typing SVG" />
+</a>
+
+</div>
 
 ### 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aeman-nisar-105054301) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://aemannisar.vercel.app)
-[![Email](https://img.shields.io/badge/Email-Gmail-d14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a3man.fatima@gmail.com)
+<p align="center">
+  <a href="https://linkedin.com/in/aeman-nisar-105054301">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://aemannisar.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:a3man.fatima@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/AemanNisar">
+    <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
-
+---
 
 ### 🚀 Featured Live Applications
 
-* **[Xyner Management System](https://xyner-management-system.vercel.app)** 
-  * A full-stack restaurant management system built with Next.js, Node.js, Express, and MongoDB.
-  * Features role-based dashboards (RBAC) for 4 user tiers and a custom JWT authentication system.
-* **[Personal Portfolio](https://aemannisar.vercel.app)**
-  * A responsive portfolio built with Next.js, TypeScript, Tailwind CSS, and Framer Motion. 
-  * Secured with Cloudflare Turnstile.
- 
+**[Xyner Management System](https://xyner-management-system.vercel.app)**
+A full-stack restaurant management system built with Next.js, Node.js, Express, and MongoDB — features role-based dashboards (RBAC) for 4 user tiers and a custom JWT authentication system.
+
+**[Personal Portfolio](https://aemannisar.vercel.app)**
+A responsive portfolio built with Next.js, TypeScript, Tailwind CSS, and Framer Motion, secured with Cloudflare Turnstile.
+
+---
 
 ### 🛠️ Tech Stack & Tools
 
-<table>
-  <tr>
-    <td align="center" width="96">
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"><path fill="#F0DB4F" d="M1.408 1.408h125.184v125.185H1.408z"/><path fill="#323330" d="M116.347 96.736c-.917-5.711-4.641-10.508-15.672-14.981-3.832-1.761-8.104-3.022-9.377-5.926-.452-1.69-.512-2.642-.226-3.665.821-3.32 4.784-4.355 7.925-3.403 2.023.678 3.938 2.237 5.093 4.724 5.402-3.498 5.391-3.475 9.163-5.879-1.381-2.141-2.118-3.129-3.022-4.045-3.249-3.629-7.676-5.498-14.756-5.355l-3.688.477c-3.534.893-6.902 2.748-8.877 5.235-5.926 6.724-4.236 18.492 2.975 23.335 7.104 5.332 17.54 6.545 18.873 11.531 1.297 6.104-4.486 8.08-10.234 7.378-4.236-.881-6.592-3.034-9.139-6.949-4.688 2.713-4.688 2.713-9.508 5.485 1.143 2.499 2.344 3.63 4.26 5.795 9.068 9.198 31.76 8.746 35.83-5.176.165-.478 1.261-3.666.38-8.581zM69.462 58.943H57.753l-.048 30.272c0 6.438.333 12.34-.714 14.149-1.713 3.558-6.152 3.117-8.175 2.427-2.059-1.012-3.106-2.451-4.319-4.485-.333-.584-.583-1.036-.667-1.071l-9.52 5.83c1.583 3.249 3.915 6.069 6.902 7.901 4.462 2.678 10.459 3.499 16.731 2.059 4.082-1.189 7.604-3.652 9.448-7.401 2.666-4.915 2.094-10.864 2.07-17.444.06-10.735.001-21.468.001-32.237z"/></svg>      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://techicons.dev/icons/typescript" width="48" height="48" alt="TypeScript" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://techicons.dev/icons/react" width="48" height="48" alt="React" />
-      <br>React / Next.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://techicons.dev/icons/nodejs" width="48" height="48" alt="Node.js" />
-      <br>Node.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://techicons.dev/icons/mongodb" width="48" height="48" alt="MongoDB" />
-      <br>MongoDB
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
 
-#### ⏱️ Weekly Coding Activity (WakaTime)
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AemanNisar&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Aeman's GitHub Stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AemanNisar&theme=dark&hide_border=true" alt="Aeman's GitHub Streak" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AemanNisar&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="165" />
+</p>
+
+---
+
+### ⏱️ Weekly Coding Activity (WakaTime)
+
 <!-- Replace 'AemanNisar' below with your exact WakaTime username if it differs from your GitHub handle -->
-[![Aeman's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=AemanNisar&theme=dark&hide_border=true)](https://wakatime.com/@AemanNisar)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AemanNisar&theme=dark&hide_border=true" alt="Aeman's WakaTime Stats" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AemanNisar&style=for-the-badge&color=6EE7B7" alt="Profile Views" />
+</p>
+
 <!--
 **AemanNisar/AemanNisar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
