@@ -73,8 +73,7 @@ A responsive portfolio built with Next.js, TypeScript, Tailwind CSS, and Framer 
 <!-- Requires your WakaTime username to match your GitHub username, and your WakaTime
      profile to be set to public in your WakaTime dashboard settings. -->
 <p align="center">
-  <img src="./profile/wakatime.svg" alt="Aeman's WakaTime Stats" />
-</p>
+<figure><embed src="https://wakatime.com/share/@AemanNisar/a85b7509-93d0-4feb-9a0b-f5c077e640d8.svg"></embed></figure></p>
 
 ---
 
